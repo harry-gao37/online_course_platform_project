@@ -8,7 +8,7 @@
 
 As for the back-end interface of the system, the popular SpringBoot+SpringCloud is used for the micro-service architecture, and Feign, Gateway, and Alibaba's Nacos and other components are used to build the basic environment of the project. The project also uses MyBatisPlus for the operation of the persistence layer, uses OAuth2+JWT to achieve distributed access, and integrates SpringSecurity for permission control in the project. In addition, the project uses Alibaba's EasyExcel to read and write Excel, Redis to cache data on the home page, Git to version control the code, and Swagger is integrated to generate interface documents.
 
-
+<br>
 
 ## System modules and architecture
 
